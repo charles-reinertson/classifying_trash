@@ -5,6 +5,9 @@
 TACO-master/
 checkpoints/
 
+# Review this one
+*.ipynb_checkpoints/
+
 # Python
 *.pyc
 __pycache__/
