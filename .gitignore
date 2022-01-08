@@ -2,8 +2,8 @@
 # not add to version control.
 
 # Project
-TACO-master
-checkpoints
+TACO-master/
+checkpoints/
 
 # Python
 *.pyc
